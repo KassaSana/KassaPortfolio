@@ -29,8 +29,8 @@ Here are some of the most exciting projects I’ve worked on. Click on any proje
 - [5. News Application](#5-news-application)  
 - [6. Student Management System](#6-student-management-system)  
 - [7. Maze Generator & Solver](#7-maze-generator--solver)  
-- [8. AVL Tree for Student Records](#8-avl-tree-for-student-records)  
-
+- [8. AVL Tree for Student Records](#8-avl-tree-for-student-records)
+- [9. Cancer Prediction Chatbot](#9-cancer-prediction-chatbot)
 ---
 
 ### **1. Stock Trading Algorithm** 🏦  
@@ -86,6 +86,13 @@ Here are some of the most exciting projects I’ve worked on. Click on any proje
 - **Description:** Implemented an AVL tree to manage UF student records, ensuring balanced and efficient data retrieval.  
 - **Technologies:** C++, CLion IDE.  
 - **Highlights:** Demonstrated expertise in advanced data structures by maintaining balance and optimizing search performance.
+
+---
+
+### **9. Cancer Prediction Chatbot** 🤖  
+- **Description:** Developed an intelligent chatbot system capable of predicting cancer types based on user-provided data and symptoms, offering a seamless and interactive diagnostic aid.  
+- **Technologies:** Python, TensorFlow, Keras, Pandas, Jupyter Notebook.  
+- **Highlights:** Leveraged machine learning techniques to create a predictive model, integrated it with a user-friendly chatbot interface, and ensured scalability for handling diverse user inputs.
 
 ---
 
