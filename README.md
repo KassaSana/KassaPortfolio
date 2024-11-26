@@ -102,12 +102,3 @@ I’m always excited to connect and collaborate! Feel free to reach out:
 - **Portfolio Website:** *Coming Soon!*  
 
 ---
-
-## ✨ **Why This Portfolio Stands Out**
-
-- **Personal Touch:** The introduction is warm, inviting, and gives a glimpse of who I am beyond the code.  
-- **Professional Presentation:** Projects are clearly detailed with results, technologies, and visual organization.  
-- **Engagement:** Emoji markers and a project index make it easy for recruiters to navigate and stay engaged.  
-- **Impact-Oriented:** Metrics and highlights focus on achievements rather than just features.  
-
----
